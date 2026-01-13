@@ -8,7 +8,7 @@ body {
   padding: 20px;
   text-align: center;
   color:-moz-only-whitespace;
-  background-image: url("bg.jpg");
+  background-image: url("https://raw.githubusercontent.com/jaycell1204/calendar/refs/heads/main/bg.jpg");
   background-repeat: no-repeat;
   background-attachment: fixed;
     background-size: 100%;
@@ -105,3 +105,4 @@ body {
   margin-bottom: 4px;
   border-radius: 6px;
 }
+
